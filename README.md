@@ -20,7 +20,11 @@ Windows 托盘定时关机工具。设一个倒计时或指定时刻，到点自
 
 ## 下载
 
-到 [Releases](../../releases) 页面下载 `ShutdownTimer.exe`。
+到 [Releases](releases) 页面下载 `ShutdownTimer.exe`（当前版本 v1.0.0）。
+
+```
+SHA256  24F9CF224C4628288C03075C00BFBAC2678C9CC10852061445227DBE4BBDDE84
+```
 
 需要 **.NET 8 桌面运行时**（Microsoft.WindowsDesktop.App 8.0.x）。若双击没反应并提示缺少框架，请先安装。
 
