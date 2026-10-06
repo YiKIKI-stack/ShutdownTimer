@@ -20,7 +20,7 @@ Windows 托盘定时关机工具。设一个倒计时或指定时刻，到点自
 
 ## 下载
 
-到 [Releases](releases) 页面下载 `ShutdownTimer.exe`（当前版本 v1.0.0）。
+到 [Releases](https://github.com/YiKIKI-stack/ShutdownTimer/releases) 页面下载 `ShutdownTimer.exe`（当前版本 v1.0.0）。
 
 ```
 SHA256  24F9CF224C4628288C03075C00BFBAC2678C9CC10852061445227DBE4BBDDE84
@@ -71,4 +71,4 @@ dotnet publish -c Release -r win-x64 --self-contained false `
 
 ## 许可
 
-GPL-3.0，详见 [LICENSE](LICENSE)。
+GPL-3.0，详见 [LICENSE](https://github.com/YiKIKI-stack/ShutdownTimer/blob/main/LICENSE)。
